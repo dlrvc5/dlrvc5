@@ -14,7 +14,3 @@
 - Build full-stack applications
 - Work on AI-integrated systems
 
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrvc5&show_icons=true)
