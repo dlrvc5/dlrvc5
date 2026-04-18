@@ -1,16 +1,20 @@
-## Hi there 👋
+## 💻 About Me
+- 📱 Learning and developing mobile applications and backend system
+- 🚀 Building real-world projects to improve my skills
+- 🧠 Always improving and exploring new technologies
 
-<!--
-**dlrvc5/dlrvc5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Learning
+- Flutter
+-  C#
+- ASP.NET Core Web API
+- REST APIs
+  
+## 🎯 Goals
+- Improve mobile development skills
+- Build full-stack applications
+- Work on AI-integrated systems
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlrvc5&show_icons=true)
