@@ -14,3 +14,7 @@
 - Build full-stack applications
 - Work on AI-integrated systems
 
+## 📫 Contact with me
+- 📧 Email: [dilav6655@gmail.com](mailto:dilav6655@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dilara-avcı-408560200](https://www.linkedin.com/in/dilara-avcı-408560200)
+
